@@ -1,6 +1,4 @@
 
-# Introduction to OpenCV
-
 # Week 1
 ## Introduction to OpenCV
 *  Read an image using OpenCV
