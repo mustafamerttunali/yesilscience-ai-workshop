@@ -10,9 +10,11 @@
 ### Before we get started:
 ##### If we want to use OpenCV, the easiest way to get started is  to use Anaconda. After downloading Anaconda from the site, open "Anaconda Terminal" (I recommend 64 Bit Python 3.7):
 
-##### conda create — name opencv 
-##### activate opencv
-##### conda install -c conda-forge opencv
+```
+conda create — name opencv
+activate opencv
+conda install -c conda-forge opencv
+```
 
 
 
