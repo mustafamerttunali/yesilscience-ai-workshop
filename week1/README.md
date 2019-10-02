@@ -1,7 +1,5 @@
 
-Introduction to OpenCV
-
-<img src="yesilscience.png" /> 
+# Introduction to OpenCV
 
 # Week 1
 ## Introduction to OpenCV
@@ -217,4 +215,3 @@ ________________________________________________________________________________
 
 ##### Week 1, Introduction to OpenCV
 ###### Mustafa Mert Tunalı, Yesil Science, Team AI
-<img src="yesilscience.png" /> 
