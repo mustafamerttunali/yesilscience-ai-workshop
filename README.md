@@ -26,8 +26,7 @@ In this workshop directory , it contains the complete coding of the artificial n
 * Training and predict
 * Cat Classification
 
-## Deep Learning and CNN - by Ömer Özgür
-
+## Deep Learning and CNN [Google Colabs] - by Ömer Özgür
 * Pre-processing 
 * Training and predict with using Keras.
 * MobileNetV2
